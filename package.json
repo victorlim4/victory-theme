@@ -1,0 +1,21 @@
+{
+    "name": "purplefy",
+    "displayName": "purplefy",
+    "description": "A theme for the purple color lovers!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Purplefy",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Purplefy-color-theme.json"
+            }
+        ]
+    }
+}
