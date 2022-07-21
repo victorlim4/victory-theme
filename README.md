@@ -1,3 +1,4 @@
+<br><br>
 <p align="center">
   <img src="https://github.com/victorlim4/victory-theme/blob/main/logo.png?raw=true" alt="Victory Theme"/>
 </p>
