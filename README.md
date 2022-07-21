@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://github.com/victorlim4/victory-theme/blob/main/single-logo.png?raw=true" alt="Victory Theme" width="70%" height="100px"/>
+  <img src="https://github.com/victorlim4/victory-theme/blob/main/single-logo.png?raw=true" alt="Victory Theme" width="30%" height="250px"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/victorlim4/victory-theme/blob/main/logo.png?raw=true" alt="Victory Theme" width="70%" height="50px"/>
+  <img src="https://github.com/victorlim4/victory-theme/blob/main/logo.png?raw=true" alt="Victory Theme" width="60%" height="70px"/>
 </p>
 
 <p align="center">
