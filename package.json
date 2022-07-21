@@ -1,20 +1,33 @@
 {
-    "name": "purplefy",
-    "displayName": "purplefy",
-    "description": "A theme for the purple color lovers!",
+    "name": "victory-theme",
+    "displayName": "Victory Theme",
+    "description": "A theme for the purple color lovers!💜",
     "version": "0.0.1",
+    "publisher": "VictorLima",
     "engines": {
         "vscode": "^1.69.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/victorlim4/victory-theme"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "Victor Lima",
+        "Victor Lima theme",
+        "victory",
+        "victory theme"
+    ],
     "categories": [
         "Themes"
     ],
     "contributes": {
         "themes": [
             {
-                "label": "Purplefy",
+                "label": "Victory",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Purplefy-color-theme.json"
+                "path": "./themes/Victory-color-theme.json"
             }
         ]
     }
