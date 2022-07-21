@@ -2,6 +2,7 @@
     "name": "victory-theme",
     "displayName": "Victory Theme",
     "description": "A theme for the purple color lovers!💜",
+    "icon": "assets/icon.png",
     "version": "0.0.1",
     "publisher": "VictorLima",
     "engines": {
