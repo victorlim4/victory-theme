@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://github.com/victorlim4/victory-theme/blob/master/images/aura-theme/single-logo.png?raw=true" alt="Victory Theme" width="70%" />
+  <img src="https://github.com/victorlim4/victory-theme/blob/main/single-logo.png?raw=true" alt="Victory Theme" width="70%" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/victorlim4/victory-theme/blob/master/images/aura-theme/logo.png?raw=true" alt="Victory Theme" width="70%" />
+  <img src="https://github.com/victorlim4/victory-theme/blob/main/logo.png?raw=true" alt="Victory Theme" width="70%" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 # Installation
 1. Open the **Extensions** sidebar in VS Code
-2. Search for [Victory Theme](https://marketplace.visualstudio.com/items?itemName=DaltonMenezes.aura-theme)
+2. Search for [Victory Theme](https://marketplace.visualstudio.com/items?itemName=VictorLima.victory-theme)
 3. Click **Install**
 4. Open the **Command Palette** with <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> or <kbd>⇧</kbd> + <kbd>⌘</kbd> + <kbd>P</kbd>
 5. Select **Preferences: Color Theme** and choose Victory Theme.
